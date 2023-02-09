@@ -1,0 +1,4 @@
+Coagulation_hybrid_ANN.m is a MATLAB script. The code is written using MATLAB R2022a version.
+Tanh_3_16.onnx is the trained ANN model which is imported into Coagulation_hybrid_ANN for calculating the proxy coagulation coefficients.
+To run the code, ensure that Coagulation_hybrid_ANN.m and Tanh_3_16.onnx is in one folder. 
+Then open Coagulation_hybrid_ANN.m in MATLAB environment and provide the input parameters as indicated in the command window.
